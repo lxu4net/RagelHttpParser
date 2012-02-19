@@ -1,0 +1,2 @@
+It's a very simple HTTP parser in Ragel. 
+I wrote it for learning Ragel's performance.
